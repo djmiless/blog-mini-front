@@ -32,7 +32,7 @@ var pusher = new Pusher('21317f2cb7ed58b0f0b2', {
             
           </div>
         </div>
-      </div>`
+      </div>` 
 
       document.body.appendChild(modalElement);
 
